@@ -1,0 +1,6 @@
+title,creator,date,coverage,format,description,source,file_path
+2024 Province Disaster Incidents,NDRRMA,2024-10-28,Nepal,CSV,Selected province-level flood and landslide incident statistics,https://bipad.gov.np/uploads/publication_pdf/Loss_and_Damage_Assessment_of_Flood_and_Landslide_2024_Updated_compressed.pdf,data/incidents/flood_incidents.csv
+2024 Affected Districts,NDRRMA,2024-10-28,Nepal,CSV,Selected district-level human impacts from floods and landslides,https://bipad.gov.np/uploads/publication_pdf/Loss_and_Damage_Assessment_of_Flood_and_Landslide_2024_Updated_compressed.pdf,data/incidents/affected_districts.csv
+2024 Infrastructure Damage,NDRRMA,2024-10-28,Nepal,CSV,Selected infrastructure damage estimates in Nepali rupees,https://bipad.gov.np/uploads/publication_pdf/Loss_and_Damage_Assessment_of_Flood_and_Landslide_2024_Updated_compressed.pdf,data/impacts/flood_damage.csv
+Geographic Reference Locations,Repository compiler,2026,Nepal,GeoJSON,Selected city reference points in districts affected by the 2024 disaster,https://www.geonames.org/,data/geographic/flood_locations.geojson
+Nepal Flood Summary,Repository compiler,2026,Nepal,Markdown,Overview of repository contents and limitations,https://bipad.gov.np/uploads/publication_pdf/Loss_and_Damage_Assessment_of_Flood_and_Landslide_2024_Updated_compressed.pdf,documentation/flood_summary.md
