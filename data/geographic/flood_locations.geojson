@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kathmandu",
+        "district": "Kathmandu",
+        "province": "Bagmati",
+        "location_type": "City reference point",
+        "event": "September 2024 floods and landslides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.320597, 27.701692]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lalitpur (Patan)",
+        "district": "Lalitpur",
+        "province": "Bagmati",
+        "location_type": "City reference point",
+        "event": "September 2024 floods and landslides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.314168, 27.676578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bharatpur",
+        "district": "Chitwan",
+        "province": "Bagmati",
+        "location_type": "City reference point",
+        "event": "September 2024 floods and landslides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.436472, 27.680274]
+      }
+    }
+  ]
+}
